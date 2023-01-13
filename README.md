@@ -1,8 +1,8 @@
 ### Summary
 - 👋 Hi, I’m @hadideveloper
 - ✳️ I can manage a Hardware project from A to Z, block diagram and schematic to mass production  
-- 👉 I have more than 17 years of experience in Embedded Systems including both Hardware and Software and 10 years of experience in 🧑‍💻 Software development including Windows and Web applications.
-- 👉 I also have 5 years experience in Blockchain development and crypto graphy.
+- 👉 I have more than 17 years of experience in Embedded Systems including both Hardware and Software and 10 years of experience in 💻 Software development including Windows and Web applications.
+- 👉 I also have 5 years of experience in blockchain development, cryptocurrency and cryptography.
 
 ### Embedded Systems Experience
 - STM32, STM8, Atmel AVR, ESP32
