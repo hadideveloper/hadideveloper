@@ -1,7 +1,8 @@
 ### Summary
-- 👋 Hi, I’m @hadideveloper
-- ✳️ I can manage a Hardware project from A to Z, block diagram and schematic to mass production  
-- 👉 I have more than 17 years of experience in Embedded Systems including both Hardware and Software and 10 years of experience in 💻 Software development including Windows and Web applications.
+- 👋 Hi, I’m @hadideveloper and currently I'm CTO of Prokey Technologies Sdn. Bhd.
+- 👉 I'm able to manage a team of hardware and software developers
+- 👉 I can manage a Hardware project from A to Z, block diagram and schematic to mass production  
+- 👉 I have more than 17 years of experience in Embedded Systems including both Hardware and Software and 10 years of experience in Software development including Windows and Web applications.
 - 👉 I also have 5 years of experience in blockchain development, cryptocurrency and cryptography.
 
 ### Embedded Systems Experience
@@ -24,6 +25,7 @@
 - AES, 3DES, ECDSA, SHA, etc, etc crypto graphy
 - Blockchain and Cryptocurrencty
 - OpenCV and Image processing
+- Linux commands and bash script
 
 ### My Flagship projects
 - 🔆 Prokey Hardware Wallet
