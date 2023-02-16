@@ -11,7 +11,7 @@
 - Schematic and PCB design (Altium designer and KiCad)
 - Mass production
 - 🔆 Experience of
-   - Read time systems
+   - Real time systems
    - RTOS
    - PID Controller
    - ISO/IEC 14443, ISO/IEC 7816 for offline payment systems
