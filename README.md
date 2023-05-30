@@ -21,11 +21,11 @@
 - C, C++ and C#
 - Windows Form and WPF
 - ASP.net MVC and WebApi
-- Angular
+- Typescript and Angular
 - AES, 3DES, ECDSA, SHA, etc, etc crypto graphy
 - Blockchain and Cryptocurrencty
 - OpenCV and Image processing
-- Linux commands and bash script
+- Linux and bash script
 
 ### My Flagship projects
 - 🔆 Prokey Hardware Wallet
