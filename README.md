@@ -1,7 +1,7 @@
 ### Summary
-- 👋 Hi, I’m @hadideveloper and currently I'm CTO of Prokey Technologies Sdn. Bhd.
+- 👋 Hi, I’m @hadideveloper and currently I'm the CTO of Prokey Technologies Sdn. Bhd.
 - 👉 I'm able to manage a team of hardware and software developers
-- 👉 I can manage a Hardware project from A to Z, block diagram and schematic to mass production  
+- 👉 I can manage a Hardware project from A to Z, from a simple block diagram and schematic to mass production  
 - 👉 I have more than 17 years of experience in Embedded Systems including both Hardware and Software and 10 years of experience in Software development including Windows and Web applications.
 - 👉 I also have 5 years of experience in blockchain development, cryptocurrency and cryptography.
 
