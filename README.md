@@ -33,7 +33,7 @@
 - Linux and limited experience in bash script
 
 ### My Flagship projects
-- 🔆 Prokey Hardware Wallet
-- 🔆 Bowling Scoring System
+- 🔆 [Opensource](https://github.com/prokey-io) Prokey Hardware Wallet [prokey.io](https://prokey.io)
+- 🔆 [Bowling Scoring System](https://pmpmax.com)
 - 🔆 4 & 6 Cylinder Engine Control Unit for Power Generator engines
 - 🔆 Smart Card Reader (Java Card, Mifare, Desfire)
