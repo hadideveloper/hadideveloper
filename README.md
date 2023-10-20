@@ -26,9 +26,9 @@
 - Windows Form and WPF
 - ASP.net MVC and WebApi
 - Typescript and Angular
-- AES, 3DES, ECDSA, SHA, etc, etc crypto graphy
+- AES, 3DES, ECDSA, SHA, etc, etc cryptography
 - Good understanding of TCP, UDP socket programming
-- Blockchain and Cryptocurrencty
+- Blockchain and Cryptocurrency
 - Limited experience in OpenCV and Image processing
 - Linux and limited experience in bash script
 
