@@ -1,5 +1,5 @@
 ### Summary
-- 👋 Co-Founder and CTO of Prokey Technologies
+- 👋 Co-Founder and CTO of Prokey Technologies and Paymento
 - 👉 Able to manage a team of hardware and software developers
 - 👉 Able to manage a Hardware project from A to Z, from a simple block diagram and schematic to mass production  
 - 👉 More than 17 years of experience in Embedded Systems, Circuit design and Firmware development.
