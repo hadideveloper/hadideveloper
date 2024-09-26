@@ -6,7 +6,7 @@
 - 👉 More than 10 years of experience in Software development including Windows and Web applications.
 - 👉 More than 5 years of experience in blockchain development, cryptocurrency and cryptography.
 
-### Embedded Systems Experience
+### Hardware and embedded systems experience
 - STM32, STM8, Atmel AVR, some experience in ESP32
 - C Prgramming Language
 - Schematic and PCB design (Altium designer and Limited experience in KiCad)
@@ -21,7 +21,7 @@
    - Ethernet, CAN, RS232, RS485, SPI, PWM, ADC, External Memory, etc. etc.
    - Character, Dot-matrix, TFT and OLED displays
 
-### Software
+### Software skills and experience
 - C, C++ and C#
 - Windows Form, WPF and [AvaloniaUI](https://avaloniaui.net/)
 - ASP.net MVC and WebApi
@@ -32,7 +32,7 @@
 - Limited experience in OpenCV and Image processing
 - Linux and limited experience in bash script
 
-### My Flagship projects
+### My flagship projects
 - 🔆 [Paymento](https://paymento.io/) Non-Custodial Crypto Payment Gateway 
 - 🔆 [Opensource](https://github.com/prokey-io) Prokey Hardware Wallet [prokey.io](https://prokey.io)
 - 🔆 [Bowling Scoring System](https://pmpmax.com)
