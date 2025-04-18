@@ -2,9 +2,9 @@
 - 👋 Co-Founder and CTO of Prokey Technologies and Paymento
 - 👉 Able to manage a team of hardware and software developers
 - 👉 Able to manage a Hardware project from A to Z, from a simple block diagram and schematic to mass production  
-- 👉 More than 17 years of experience in Embedded Systems, Circuit design and Firmware development.
-- 👉 More than 10 years of experience in Software development including Windows and Web applications.
-- 👉 More than 5 years of experience in blockchain development, cryptocurrency and cryptography.
+- 👉 More than 18 years of experience in Embedded Systems, Circuit design and Firmware development.
+- 👉 More than 11 years of experience in Software development including Windows and Web applications.
+- 👉 More than 6 years of experience in blockchain development, cryptocurrency and cryptography.
 
 ### Hardware and embedded systems experience
 - STM32, STM8, Atmel AVR, some experience in ESP32
@@ -25,9 +25,10 @@
 - C, C++ and C#
 - Windows Form, WPF and [AvaloniaUI](https://avaloniaui.net/)
 - ASP.net MVC and WebApi
+- SQL Database and Entity Framework
 - Typescript and Angular
-- AES, 3DES, ECDSA, SHA, etc, etc cryptography
-- Good understanding of TCP, UDP socket programming
+- Semantic and Asymmetric encryption like AES, 3DES, ECDSA, HMAC, SHA, etc, etc cryptography
+- Good understanding low level socket programming and protocols like TCP, UDP 
 - Blockchain and Cryptocurrency
 - Limited experience in OpenCV and Image processing
 - Linux and limited experience in bash script
